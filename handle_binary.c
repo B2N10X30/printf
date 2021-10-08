@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _putbin - prints the binary representation of a number
  * @num: input integer
