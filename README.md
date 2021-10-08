@@ -44,3 +44,5 @@ Authors ©
 
 .Bonu Samuel 
 .Emmanuel Omisakin
+
+The _printf function emulates functionality of the C standard libr:ary function printf.
